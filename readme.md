@@ -1,5 +1,5 @@
 # Ins and Outs of Physical Computing
-New York City College of Technology Spring 2018
+New York City College of Technology, Spring 2018
 
 ## Class site
 https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
