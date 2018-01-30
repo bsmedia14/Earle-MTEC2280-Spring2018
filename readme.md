@@ -7,7 +7,7 @@ https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
 ## Instructor
 + Grayson Earle
 + gearle@citytech.cuny.edu
-+ Office Hours: V-203, Tuesday: 12-12:50, Wednesday: 12-2:15, and by appointment
++ Office Hours: V-203, Monday: 12-12:50, Wednesday: 12-2:15, and by appointment
 
 ## Description
 This course is an introduction to interactive technology with a focus on how we use technology to express ourselves and interact with our environment. This class combines a hands-on exploration of basic components of media, audio, and control circuits. Students also develop interfacing technologies from simple switches to multidimensional sensors, integrated circuits, and micro-controllers. Emphasis will also be placed on communicating between physical and digital systems.
